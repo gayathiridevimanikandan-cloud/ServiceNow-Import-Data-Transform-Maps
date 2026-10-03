@@ -11,8 +11,3 @@ Import employee data from an Excel spreadsheet into ServiceNow using Import Sets
 6. Created 3 reports: Employees by Department (Pie), Employees by Location (Bar), Employee List Report (List)
 7. Created Employee Analytics Dashboard and added all 3 reports
 
-## Demo Video
-part 1
-https://drive.google.com/file/d/1xMjfZR_UfXhcgRr8W0vUcK8WJEt9pLLF/view?usp=sharing
-part 2
-https://drive.google.com/file/d/1Owr_KHznKfrSXml_VSdXSe8b8gh_E2RC/view?usp=sharing
